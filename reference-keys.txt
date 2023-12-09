@@ -69,3 +69,5 @@ defence
 figures-5
 about
 links-1
+news
+sitelog
